@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: learning-github
+Version: 0.1.0
+Summary: A simple pip package
+Home-page: https://github.com/danielsantiago-dev/learning-github
+Author: Daniel Santiago
+Author-email: daniel@dsantiago.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
